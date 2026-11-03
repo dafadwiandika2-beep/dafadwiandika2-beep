@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animasi Typing Banner Header -->
-  <a href="https://github.com/DafaDwiAndika">
+  <a href="[https://github.com/DafaDwiAndika](https://github.com/dafadwiandika2-beep)">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FBBF24&center=true&vcenter=true&width=700&lines=%E2%9A%94%EF%B8%8F+Halo!+Saya+Dafa+Dwi+Andika+%F0%9F%90%AF;Computer+Science+Student+%40+USU;Full-Stack+%26+Mobile+App+Developer;Creator+of+Cuanverse+RPG+%F0%9F%AA%99;Creative+Writer+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 
