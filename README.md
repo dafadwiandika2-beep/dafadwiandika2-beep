@@ -203,6 +203,15 @@ timeline
 
 <br/>
 
+<!-- ═══════════════════════ 3D CONTRIBUTION ═══════════════════════ -->
+## 🌿 Contribution Graph 3D
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dafadwiandika2-beep/dafadwiandika2-beep/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
+
+</div>
+
 <!-- ═══════════════════════ NOVEL ═══════════════════════ -->
 ## ✍️ Sisi Lain: Penulis & Worldbuilder
 
