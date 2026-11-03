@@ -247,9 +247,9 @@ Di luar layar kode, saya menulis **web novel** dan merancang dunia fiksi dengan 
 
 [![GitHub](https://img.shields.io/badge/GitHub-dafadwiandika2--beep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dafadwiandika2-beep)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Kunjungi_Web_Saya-fbbf24?style=for-the-badge&logo=googlechrome&logoColor=black)](https://github.com/dafadwiandika2-beep/portofolio)
-[![Email](https://img.shields.io/badge/Email-Hubungi_Saya-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@USERNAME__KAMU-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dafa_Dwi_Andika-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_KAMU)
+[![Email](https://img.shields.io/badge/Email-Hubungi_Saya-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dafadwiandika2@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@dfandk_-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dafa_Dwi_Andika-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/USERNAME_KAMU](https://www.linkedin.com/in/dafa-dwi-andika-935834379/))
 
 <br/>
 
