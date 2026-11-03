@@ -212,6 +212,20 @@ timeline
 
 </div>
 
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dafadwiandika2-beep/dafadwiandika2-beep/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/dafadwiandika2-beep/dafadwiandika2-beep/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
 <!-- ═══════════════════════ NOVEL ═══════════════════════ -->
 ## ✍️ Sisi Lain: Penulis & Worldbuilder
 
